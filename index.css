@@ -1,0 +1,19 @@
+#container {
+	background-color: yellow;
+	padding: 10px;
+	margin: 5px;
+}
+#heading1 {
+	color: red;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+  border: 1px solid blue;
+}
+#heading2 {
+	color: green;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+  border: 1px solid blue;
+}
