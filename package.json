@@ -1,0 +1,19 @@
+{
+	"name": "react",
+	"version": "1.0.0",
+	"description": "React practice by Yash Joshi",
+	"repository": "git@github.com:yashjk/react.git",
+	"author": "yash <injose.joshi@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"parcel": "^2.9.3",
+		"process": "^0.11.10"
+	},
+	"browserslist": [
+		"last 2 versions"
+	],
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
