@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Header from "./src/components/Header";
-import Dashboard from "./src/components/Dashboard";
+import Header from "./components/Header";
+import Dashboard from "./components/Dashboard";
 
 const App = () => (
 	<div className="container">
